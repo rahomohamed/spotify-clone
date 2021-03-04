@@ -2,7 +2,7 @@
 
 A Spotify clone application built using React Js and Spotify API.
 
-!["Screenshot of homepage"](https://github.com/rahomohamed/spotify-clone/blob/master/docs/home.png)
+!["Screenshot of homepage"](https://github.com/rahomohamed/spotify-clone/blob/main/docs/home.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
